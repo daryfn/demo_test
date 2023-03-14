@@ -1,1 +1,8 @@
 DEMO TEST
+
+push
+pull
+branch
+merge
+fetch
+remote via VS Code
